@@ -1,0 +1,32 @@
+.corpo{
+  background-image: url(https://i.pinimg.com/originals/f3/9d/b4/f39db4e8b6d4faa81975e789e8cb8e6d.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+}
+
+.title{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  color: white;
+}
+
+#form{
+  padding: 30px;
+  text-align: center;
+  color: white ;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#buttom{
+  color: white;
+  padding: 10px 10px;
+  font-size: 25px;
+  border: black;
+  border-radius: 100px;
+  border-bottom: white;
+  box-shadow: black;
+  background-color: black;
+}
